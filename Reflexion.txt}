@@ -1,0 +1,6 @@
+1.¿Tuviste que poner Cliente, Producto y Pedido en el mismo paquete?
+Si , ya que esto va en 1 paquete a parte del main()
+2. ¿Qué problema aparecería si intentaras separar Producto en un paquete aparte cuando Pedido lo tiene anidado?
+No funcionarian los diferentes metodos que estan relacionados a esa struct
+3. Comparando con el Día A (donde usamos IDs): ¿qué ventaja tiene el modelo con IDs para organizar el código en paquetes?
+Mucho , ya que nos permite separar los metodos de el main y esto ayuda a optimizar el codigo , ya que no se agrega todo en un solo archivo.
